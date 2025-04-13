@@ -1,6 +1,6 @@
 const textElement = document.getElementById("text");
 const speedInput = document.getElementById("speed");
-const text = "We love Programming!";
+const text = "W";
 let index = 0;
 let interval = 500 / speedInput.value;
 
